@@ -10,6 +10,7 @@ A collection of writeups from rooms I've completed on [TryHackMe](https://tryhac
 |---|---|---|---|---|
 | Hammer | TryHackMe | Medium | Web Exploitation, JWT, Auth Bypass | [hammer/](./hammer) |
 | CYBERCONE CTF (8 challenges) | CYBERCONE | Mixed | Forensics, Steganography, RE, Network Forensics | [cybercone-ctf/](./cybercone-ctf) |
+| Hacker101 CTF (Micro-CMS) | Hacker101 | — | Broken Access Control, Stored XSS | [hacker101-ctf/](./hacker101-ctf) |
 
 ## About
 
