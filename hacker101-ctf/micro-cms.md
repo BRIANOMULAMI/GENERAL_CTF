@@ -150,3 +150,11 @@ The investigation identified a broken access control vulnerability and two Store
 The exercise provided practical experience with endpoint enumeration, authorization testing, HTML injection, and identifying weaknesses in input filtering.
 
 *All flag values have been redacted for responsible public documentation.*
+
+
+
+
+
+
+
+3
