@@ -9,7 +9,7 @@ A collection of writeups from rooms and challenges I've completed across [TryHac
 | Room | Difficulty | Category | Writeup |
 |---|---|---|---|
 | Hammer | Medium | Web Exploitation, JWT, Auth Bypass | [THM_LABS/HAMMER.md](./THM_LABS/HAMMER.md) |
-| Operation Reroute | — | — | [THM_LABS/Operation_Reroute.md](./THM_LABS/Operation_Reroute.md) |
+| Operation Reroute | Hard | Network Security / BGP Hijacking| [THM_LABS/Operation_Reroute.md](./THM_LABS/Operation_Reroute.md) |
 
 ## CTF Events
 
